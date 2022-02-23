@@ -6,6 +6,9 @@ This Script is extremly simple however you need to setup your spotify, and you n
 The script captures the RFID card and from the id it plays the specific music that you wish.
 Box music is inspired by the stylus record player.
 ## Demo of Box Music
+
+https://user-images.githubusercontent.com/68626539/155424480-f65923aa-f782-4c8c-be30-6b8357dfaf69.mp4
+
 ## Features
 
 - the feeling of future on your palms
