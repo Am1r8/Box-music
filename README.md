@@ -8,7 +8,7 @@ Box music is inspired by the stylus record player.
 ## Demo of Box Music
 
 
-https://user-images.githubusercontent.com/68626539/155422513-79dc7e93-f66c-4960-86a5-29c5e182c3aa.mp4
+https://user-images.githubusercontent.com/68626539/155422684-63353af5-74d8-4e11-9dd3-d8539264c2b2.mp4
 
 
 ## Features
