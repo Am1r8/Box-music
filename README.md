@@ -11,6 +11,7 @@ https://user-images.githubusercontent.com/68626539/155424480-f65923aa-f782-4c8c-
 
 ## Features
 
+- having the futuristic feeling
 - the feeling of future on your palms
 - enjoying the music that you love, by using a physical key
 - showing your friends how cool you are
@@ -26,10 +27,10 @@ To run box music, run the following commands in your raspberry pi
   python script.py
 ```
 
-You have to run the test.py first to get the id of your cards and paste them in your script.py file.
+You have to run the test.py first to get the id of your cards and paste them in your script.py file and if you want change the songs you need to change the urls.
 
 Don't forget you need a spotify developer account and you need to enter the redirect url to get the .cache file.
-You need a raspberry pi and a RFID sensor with at least one or two cards.
+You need a raspberry pi and a RFID sensor with at least one or two cards (I had 9 and I entered all of their ids in the app and I'm using them).
 
 
 ## Installation
